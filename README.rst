@@ -5,8 +5,7 @@ The open-source core of Pinry, a tiling image board system for people
 who want to save, tag, and share images, videos and webpages in an easy
 to skim through format.
 
-For more information and a working demo board visit `getpinry.com`_. For the
-latest documentation check out `Read the Docs`_.
+For more information and a working demo board visit getpinry.com. 
 
 Note
 ------------
@@ -50,11 +49,7 @@ To run Pinry using Django test server::
 Production Deployment
 ---------------------
 
-Our supported and suggested way to deploy Pinry is using Docker. We
-provide support and instructions for that over at the `docker-pinry
-GitHub repository`_.
-
-If you'd like a different setup then check out the hundreds of tutorials
+Check out the hundreds of tutorials
 for production Django deployment found via Google.
 
 
